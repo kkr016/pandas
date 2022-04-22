@@ -18,3 +18,5 @@ pandas: data analysis of two .csv files
 6:  Shining stars of the week (top 3 candidates who has highest geekions)
 
 7:  Department wise codekata performence (pie chart)
+
+**Note:**__ colab file doesn't support plotly.express files. Refer plotly graphs in seperately.
